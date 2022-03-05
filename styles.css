@@ -3,19 +3,19 @@
     font-style: normal;
     font-weight: 400;
     font-family: "TTLakes";
-    src: url("/makeItReal/project1/sait/fonts/TTLakes-Regular.woff")
+    src: url("fonts/TTLakes-Regular.woff")
 }
 @font-face {
     font-style: bold;
     font-weight: 700;
     font-family: "TTLakes";
-    src: url("/makeItReal/project1/sait/fonts/TTLakes-Bold.woff")
+    src: url("fonts/TTLakes-Bold.woff")
 }
 @font-face {
     font-style: medium;
     font-weight: 500;
     font-family: "TTLakes";
-    src: url("/makeItReal/project1/sait/fonts/TTLakes-Medium.woff")
+    src: url("fonts/TTLakes-Medium.woff")
 }
 @media (min-width: 320px) and (max-width: 767px) {
 
